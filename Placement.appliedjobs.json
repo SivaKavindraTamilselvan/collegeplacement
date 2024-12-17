@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "67618551adc013ecddc60093"
+  },
+  "userId": {
+    "$oid": "676184ddadc013ecddc60012"
+  },
+  "companyname": "Tech Solutions Inc.",
+  "jobTitle": "Software Engineer",
+  "status": "Offered",
+  "phone": "9442378188",
+  "resume": "uploads\\1734444369121.pdf",
+  "schedule": {
+    "type": "Offline"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T14:06:09.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:12:29.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761857fadc013ecddc60117"
+  },
+  "userId": {
+    "$oid": "676184ddadc013ecddc60012"
+  },
+  "companyname": "Tech Solutions Inc.",
+  "jobTitle": "software engineer",
+  "status": "Rejected",
+  "phone": "9442378188",
+  "resume": "uploads\\1734444415480.pdf",
+  "schedule": {
+    "type": "Offline"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T14:06:55.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:13:39.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761859fadc013ecddc60197"
+  },
+  "userId": {
+    "$oid": "676184ddadc013ecddc60012"
+  },
+  "companyname": "Tech Solutions Inc.",
+  "jobTitle": "Software Engineer",
+  "status": "Rejected",
+  "phone": "9442378188",
+  "resume": "uploads\\1734444447564.pdf",
+  "schedule": {
+    "type": "Offline"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T14:07:27.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:09:13.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67618799adc013ecddc60326"
+  },
+  "userId": {
+    "$oid": "676184ddadc013ecddc60012"
+  },
+  "companyname": "Tech Solutions Inc.",
+  "jobTitle": "UX Designer",
+  "status": "Scheduled",
+  "phone": "9442378188",
+  "resume": "uploads\\1734444953021.pdf",
+  "schedule": {
+    "type": "Offline"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T14:15:53.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T14:17:29.651Z"
+  },
+  "__v": 0
+}]

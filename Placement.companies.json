@@ -1,0 +1,453 @@
+[{
+  "_id": {
+    "$oid": "675214684d189a79fdf56836"
+  },
+  "name": "Tech Solutions Inc.",
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "type": "Full-time"
+    },
+    {
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Product Manager",
+      "location": "Austin, TX",
+      "type": "Contract"
+    },
+    {
+      "title": "UX Designer",
+      "location": "Los Angeles, CA",
+      "type": "Part-time"
+    },
+    {
+      "title": "software engineer",
+      "location": "erode",
+      "type": "full-time",
+      "_id": {
+        "$oid": "676182d2ee616265692349a5"
+      }
+    },
+    {
+      "title": "Project head",
+      "location": "Erode",
+      "type": "full-time",
+      "_id": {
+        "$oid": "67618754adc013ecddc60206"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf56838"
+  },
+  "name": "Tech Solutions Inc.",
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "type": "Full-time"
+    },
+    {
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Product Manager",
+      "location": "Austin, TX",
+      "type": "Contract"
+    },
+    {
+      "title": "UX Designer",
+      "location": "Los Angeles, CA",
+      "type": "Part-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf56839"
+  },
+  "name": "Innovative Technologies LLC",
+  "jobs": [
+    {
+      "title": "Front-end Developer",
+      "location": "Chicago, IL",
+      "type": "Full-time"
+    },
+    {
+      "title": "Back-end Developer",
+      "location": "Seattle, WA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Software Tester",
+      "location": "Austin, TX",
+      "type": "Internship"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf5683a"
+  },
+  "name": "Creative Minds Studio",
+  "jobs": [
+    {
+      "title": "Graphic Designer",
+      "location": "Los Angeles, CA",
+      "type": "Freelance"
+    },
+    {
+      "title": "Art Director",
+      "location": "Miami, FL",
+      "type": "Contract"
+    },
+    {
+      "title": "Web Designer",
+      "location": "New York, NY",
+      "type": "Part-time"
+    },
+    {
+      "title": "UX Researcher",
+      "location": "Boston, MA",
+      "type": "Full-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf5683b"
+  },
+  "name": "Global Financial Services",
+  "jobs": [
+    {
+      "title": "Financial Analyst",
+      "location": "London, UK",
+      "type": "Full-time"
+    },
+    {
+      "title": "Risk Manager",
+      "location": "Zurich, Switzerland",
+      "type": "Contract"
+    },
+    {
+      "title": "Investment Banker",
+      "location": "New York, NY",
+      "type": "Full-time"
+    },
+    {
+      "title": "Accountant",
+      "location": "Sydney, Australia",
+      "type": "Part-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf5683c"
+  },
+  "name": "Global Health Solutions",
+  "jobs": [
+    {
+      "title": "Healthcare Consultant",
+      "location": "Boston, MA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Medical Researcher",
+      "location": "San Francisco, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Nurse Practitioner",
+      "location": "Los Angeles, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Clinical Data Analyst",
+      "location": "Chicago, IL",
+      "type": "Part-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf5683d"
+  },
+  "name": "Green Tech Innovations",
+  "jobs": [
+    {
+      "title": "Environmental Engineer",
+      "location": "Portland, OR",
+      "type": "Full-time"
+    },
+    {
+      "title": "Renewable Energy Specialist",
+      "location": "Denver, CO",
+      "type": "Contract"
+    },
+    {
+      "title": "Sustainability Manager",
+      "location": "Austin, TX",
+      "type": "Full-time"
+    },
+    {
+      "title": "Energy Efficiency Consultant",
+      "location": "San Diego, CA",
+      "type": "Internship"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675215894d189a79fdf5683e"
+  },
+  "name": "Next-Gen Robotics",
+  "jobs": [
+    {
+      "title": "Robotics Engineer",
+      "location": "San Francisco, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "AI Specialist",
+      "location": "Boston, MA",
+      "type": "Part-time"
+    },
+    {
+      "title": "Mechanical Engineer",
+      "location": "Detroit, MI",
+      "type": "Full-time"
+    },
+    {
+      "title": "Embedded Systems Engineer",
+      "location": "Chicago, IL",
+      "type": "Full-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56840"
+  },
+  "name": "Oceanic Ventures",
+  "jobs": [
+    {
+      "title": "Marine Biologist",
+      "location": "Hawaii, USA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Oceanographer",
+      "location": "Vancouver, Canada",
+      "type": "Full-time"
+    },
+    {
+      "title": "Underwater Robotics Engineer",
+      "location": "Sydney, Australia",
+      "type": "Contract"
+    },
+    {
+      "title": "Aquatic Ecologist",
+      "location": "Cape Town, South Africa",
+      "type": "Part-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56841"
+  },
+  "name": "Global Media Network",
+  "jobs": [
+    {
+      "title": "Journalist",
+      "location": "London, UK",
+      "type": "Freelance"
+    },
+    {
+      "title": "Video Producer",
+      "location": "Berlin, Germany",
+      "type": "Full-time"
+    },
+    {
+      "title": "Broadcast Technician",
+      "location": "New York, NY",
+      "type": "Part-time"
+    },
+    {
+      "title": "Social Media Manager",
+      "location": "Los Angeles, CA",
+      "type": "Full-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56842"
+  },
+  "name": "SkyTech Aerospace",
+  "jobs": [
+    {
+      "title": "Aerospace Engineer",
+      "location": "Houston, TX",
+      "type": "Full-time"
+    },
+    {
+      "title": "Flight Operations Specialist",
+      "location": "Chicago, IL",
+      "type": "Contract"
+    },
+    {
+      "title": "Avionics Technician",
+      "location": "Dubai, UAE",
+      "type": "Full-time"
+    },
+    {
+      "title": "Rocket Propulsion Scientist",
+      "location": "Los Angeles, CA",
+      "type": "Internship"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56843"
+  },
+  "name": "Pioneer Pharmaceuticals",
+  "jobs": [
+    {
+      "title": "Pharmacist",
+      "location": "Toronto, Canada",
+      "type": "Full-time"
+    },
+    {
+      "title": "Pharmaceutical Sales Representative",
+      "location": "Dallas, TX",
+      "type": "Part-time"
+    },
+    {
+      "title": "Clinical Research Coordinator",
+      "location": "Boston, MA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Regulatory Affairs Manager",
+      "location": "Geneva, Switzerland",
+      "type": "Contract"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56844"
+  },
+  "name": "City Build Developers",
+  "jobs": [
+    {
+      "title": "Construction Project Manager",
+      "location": "Seattle, WA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Site Engineer",
+      "location": "San Diego, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Architect",
+      "location": "Paris, France",
+      "type": "Part-time"
+    },
+    {
+      "title": "Urban Planning Consultant",
+      "location": "Tokyo, Japan",
+      "type": "Freelance"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56845"
+  },
+  "name": "FarmTech Innovations",
+  "jobs": [
+    {
+      "title": "Agricultural Engineer",
+      "location": "Iowa, USA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Crop Scientist",
+      "location": "Bangladesh",
+      "type": "Full-time"
+    },
+    {
+      "title": "Farm Equipment Specialist",
+      "location": "Berlin, Germany",
+      "type": "Part-time"
+    },
+    {
+      "title": "Sustainability Coordinator",
+      "location": "Mumbai, India",
+      "type": "Contract"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675216164d189a79fdf56846"
+  },
+  "name": "Digital Cloud Systems",
+  "jobs": [
+    {
+      "title": "Cloud Solutions Architect",
+      "location": "Toronto, Canada",
+      "type": "Full-time"
+    },
+    {
+      "title": "DevOps Engineer",
+      "location": "London, UK",
+      "type": "Contract"
+    },
+    {
+      "title": "Cloud Security Specialist",
+      "location": "San Francisco, CA",
+      "type": "Full-time"
+    },
+    {
+      "title": "Database Administrator",
+      "location": "New York, NY",
+      "type": "Part-time"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6761894eadc013ecddc606bb"
+  },
+  "name": "Microsoft",
+  "jobs": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676189c0adc013ecddc607c0"
+  },
+  "name": "Digit Game",
+  "jobs": [],
+  "__v": 0
+}]

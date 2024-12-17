@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67528998aa9efd32b33169ef"
+  },
+  "name": "siva",
+  "email": "sivakavindra@gmail.com",
+  "password": "12",
+  "phone": "123",
+  "academicDetails": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676184ddadc013ecddc60012"
+  },
+  "name": "sivakavindra",
+  "email": "sivakavindrat.22csd@kongu.edu",
+  "password": "123456",
+  "phone": "9442378188",
+  "academicDetails": [],
+  "__v": 0
+}]

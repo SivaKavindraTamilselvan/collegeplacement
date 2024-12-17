@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6752caab21ee1228a500d3d5"
+  },
+  "name": "Tech Solutions Inc.",
+  "phone": "1234",
+  "email": "techsolution1809@gmail.com",
+  "ceo": "siva",
+  "__v": 0,
+  "password": "1234"
+}]
