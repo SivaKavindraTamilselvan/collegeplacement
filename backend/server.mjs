@@ -26,7 +26,7 @@ db.once('open', () => console.log('Connected to MongoDB'));
 */
 
 
-const mongoURI = 'mongodb+srv://sivakavindra:kvNzBLYa5x7K2lB2@placement.oxatc.mongodb.net/?retryWrites=true&w=majority&appName=Placement';
+const mongoURI = 'mongodb+srv://sivakavindra:kvNzBLYa5x7K2lB2@placement.oxatc.mongodb.net/test?retryWrites=true&w=majority&appName=Placement';
 
 mongoose.connect(mongoURI)
     .then(() => console.log('Connected to MongoDB Atlas'))
