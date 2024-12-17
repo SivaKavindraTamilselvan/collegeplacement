@@ -12,7 +12,7 @@ app.use('/uploads/uploads', express.static("uploads"));
 
 app.use(express.json());
 app.use(cors());
-
+/*
 const mongoURI = 'mongodb://localhost:27017/Placement';
 
 mongoose.connect(mongoURI, {
@@ -23,6 +23,15 @@ mongoose.connect(mongoURI, {
 const db = mongoose.connection;
 db.on('error', (error) => console.error('Database connection error:', error));
 db.once('open', () => console.log('Connected to MongoDB'));
+*/
+
+
+const mongoURI = 'mongodb+srv://sivakavindra:kvNzBLYa5x7K2lB2@placement.oxatc.mongodb.net/?retryWrites=true&w=majority&appName=Placement';
+
+mongoose.connect(mongoURI)
+    .then(() => console.log('Connected to MongoDB Atlas'))
+    .catch((error) => console.error('Database connection error:', error));
+
 
 const { Schema } = mongoose;
 
