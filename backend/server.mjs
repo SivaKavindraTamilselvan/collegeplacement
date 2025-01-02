@@ -630,7 +630,6 @@ app.post('/api/apply', upload.single('resume'), async (req, res) => {
         jobTitle,
         companyname,
         phone,
-        resume: resumePath,
         status: 'Applied'
     };
 
