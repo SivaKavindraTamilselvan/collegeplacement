@@ -611,7 +611,7 @@ const applicationSchema = new mongoose.Schema({
     jobTitle: { type: String, required: true },
     status: { type: String, enum: ['Applied', 'Interview', 'Rejected', 'Offered', "Scheduled"], default: 'Applied' },
     phone: { type: String, required: true },
-    resume: { type: String, required: true },
+    resume: { type: String },
     schedule: {
         date: { type: String },
         time: { type: String },
@@ -624,9 +624,7 @@ const AppliedJob = mongoose.model('AppliedJob', applicationSchema);
 app.post('/api/apply', upload.single('resume'), async (req, res) => {
     const { userId, jobTitle, companyname, phone } = req.body;
     const resumePath = req.file ? req.file.path : '';
-    if (!userId || !resumePath) {
-        return res.status(400).json({ message: 'User ID and Resume are required' });
-    }
+    
     const data = {
         userId,
         jobTitle,
